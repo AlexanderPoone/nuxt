@@ -1,9 +1,3 @@
-# Nuxt 3 Examples
-
-👉 https://nuxt.com/docs/examples
-
----
-
 ## Sites
 
 - [hello-world](https://hello-world.example.nuxt.space/) - ([source](./examples/hello-world/))
