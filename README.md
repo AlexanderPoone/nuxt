@@ -1,3 +1,5 @@
+**[nuxt/examples/ui/vuetify](nuxt/examples/ui/vuetify)**
+
 ## Sites
 
 - [hello-world](https://hello-world.example.nuxt.space/) - ([source](./examples/hello-world/))
